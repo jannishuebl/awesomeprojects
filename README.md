@@ -2,17 +2,27 @@
 
 # Programing
 
-# Freemium
+## Services
+### Freemium
 
-## Mailing
+### Mailing
 
 - https://www.mailgun.com/
 
 
-## Codequality
+### Codequality
 
 - https://awesomecode.io/
 
+
+## Tools
+
+- http://blog.scoutapp.com/articles/2018/01/17/tutorial-distributed-tracing-in-ruby-with-opentracing
+
+
+# Organisation
+
+- https://jitsi.org/what-is-jitsi/ (videochat xmpp based)
 
 
 # Marketing
