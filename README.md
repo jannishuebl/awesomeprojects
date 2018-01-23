@@ -8,6 +8,7 @@
 ### Mailing
 
 - https://www.mailgun.com/
+- https://elasticemail.com
 
 
 ### Codequality
