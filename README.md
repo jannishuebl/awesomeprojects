@@ -3,10 +3,10 @@
 # Programing
 
 ## Services
-### Freemium
 
 ### Mailing
 
+#### Freemium
 - https://www.mailgun.com/
 - https://elasticemail.com
 
@@ -14,6 +14,11 @@
 ### Codequality
 
 - https://awesomecode.io/
+
+### DevOps
+
+#### Freemium
+- ImageRegistry: https://www.canister.io/solo
 
 
 ## Tools
