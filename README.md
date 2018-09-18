@@ -36,3 +36,9 @@
 # Freemium
 
 - https://www.mailerlite.com/
+
+## Open Source
+
+- https://github.com/bevacqua/campaign
+- https://mjmlio.github.io/mjml-app/
+- https://github.com/atech/postal
