@@ -19,11 +19,13 @@
 
 #### Freemium
 - ImageRegistry: https://www.canister.io/solo
+- ImageRegistry: https://gitlab.com
 
 
 ## Tools
 
 - http://blog.scoutapp.com/articles/2018/01/17/tutorial-distributed-tracing-in-ruby-with-opentracing
+- https://weblate.org/de/
 
 
 # Organisation
