@@ -38,9 +38,12 @@
 # Freemium
 
 - https://www.mailerlite.com/
+- https://tactictaco.com/
 
 ## Open Source
 
 - https://github.com/bevacqua/campaign
 - https://mjmlio.github.io/mjml-app/
 - https://github.com/atech/postal
+
+
