@@ -33,6 +33,7 @@
 # Organisation
 
 - https://jitsi.org/what-is-jitsi/ (videochat xmpp based)
+- https://bloom.sh/
 
 
 # Marketing
