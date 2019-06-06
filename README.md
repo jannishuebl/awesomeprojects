@@ -21,6 +21,8 @@
 - ImageRegistry: https://www.canister.io/solo
 - ImageRegistry: https://gitlab.com
 
+#### Paid (lowcost)
+- CDN: https://arc.io
 
 ## Tools
 
